@@ -1,8 +1,8 @@
-/* * * * * * * * * * * * * * * * *
-* File: http.c                   *
-* Author: Sreehari               *
-* License: IDCv0 (I Don't Care)  *
-* * * * * * * * * * * * * * * * */
+/* * * * * * * * * * * * * * * * * * * *
+* File: http.c                         *
+* Author: Sreehari                     *
+* License: GNU General Public License  *
+* * * * * * * * * * * * * * * * * * * */
 
 /* * * * * * * * *
 * Include Files  *
