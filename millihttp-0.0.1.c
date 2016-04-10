@@ -24,7 +24,7 @@ int main(int argc, char **argv) {
    char ch;
    int i;
    char buff[1024] = "<html><head><title>It Works!!</title><style>\
-body { font-family: consolas, monospace; background-color: black; color: #00FF00; }</style></head><body><h1>MilliHTTP Works!</h1><br>MilliHTTP Webserver by Sreehari<br><br><br><br><br>MilliHTTP (Linux/ARM Raspberry Pi)</body></html>"; //Create Something
+body { font-family: consolas, monospace; background-color: black; color: #00FF00; }</style></head><body><h1>MilliHTTP Works!</h1></body></html>"; //Create Something
    //scanf("%s", buff);
    int create_socket, new_socket;
    socklen_t addrlen;
